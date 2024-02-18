@@ -1,0 +1,22 @@
+/* Add this to your global.css file */
+
+/* Customize the scrollbar width */
+::-webkit-scrollbar {
+	width: 0.2rem;
+}
+
+/* Customize the scrollbar track */
+::-webkit-scrollbar-track {
+	background: #ffffff;
+}
+
+/* Customize the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+	background: #724b00;
+	border-radius: 1rem;
+}
+
+/* Customize the scrollbar thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #5d3600;
+}
